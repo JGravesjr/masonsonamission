@@ -1,11 +1,24 @@
-	<h3>Tamra</h3> 
-<div class="row">
-	<img src="images/tamra.jpg" alt="" class="thumbnail"/>
-	<img src="images/closeup3.jpg" alt="" class="thumbnail"/>
-	<img src="images/guate2.jpg" alt="" class="thumbnail"/>
-	<img src="images/fam6.jpg" alt="" class="thumbnail"/>
+<div class="row">	
+<div class="col-xs-12 col-sm-12 col-md-12">
+
+<h3>Tamra</h3> 
 </div>
-        <div class="expander">
+<div class="row">
+	<div class="col-xs-12 col-sm-4 col-md-3">
+		<img src="images/tamra.jpg" alt="" class="thumbnail"/>
+	</div>
+	<div class="hidden-xs col-sm-4 col-md-3">
+		<img src="images/closeup3.jpg" alt="" class="thumbnail"/>
+	</div>
+	<div class="hidden-xs col-sm-4 col-md-3">
+		<img src="images/guate2.jpg" alt="" class="thumbnail"/>
+	</div>
+	<div class="hidden-xs hidden-sm col-md-3">
+		<img src="images/fam6.jpg" alt="" class="thumbnail"/>
+	</div>
+</div>
+<div class="row">
+          <div class="expander col-xs-12 col-sm-12 col-md-12">
 		<p>Tamra Fakhoorian of Graves County is no stranger to traveling to foreign lands, having visited over fifteen countries in addition to a “youthful” journey spent back-packing across South America. She says she never expected a search online to evolve into her most recent expedition with a mission group to highland villages near San Marcos la Laguna, three hours northwest of Antigua in Guatemala. She was searching for information on how to construct a wood fired pizza oven on the internet, when she came across a link that she says opened her eyes and her heart to a group of volunteer, “Masons on a Mission (MOM).”</p>
 		<p>Fakhoorian contacted Patrick Manley, the founder/organizer of M.O.M., and learned how his mission group, comprised of professionals from all walks of life (masons, retired teachers, engineers, and even a public relations director), travel to Guatemala to construct wood fired brick stoves. Manley explained that the stoves dramatically improve the health, life expectancy and overall wellbeing of Guatemalan families, particularly those of the women and children. He further explained how he and the volunteers have made an annual trek for the past thirteen years at their own expense and with  no monetary compensation, to build efficient wood burning brick cook stoves for the poverty stricken villagers of Guatemala.</p>
 		<p>Fakhoorian told how she joined he mission on their most recent trip on Jan. 12 and returned on Jan. 29, 2012. She says she learned first-hand how to construct several concrete and brick stoves and told how the construction of a single stove costs only $150 each: a small investment that will bring a lifetime of dividends in terms of better health to 34 families in two small villages.</p>
@@ -18,3 +31,4 @@
 		<p>“Everyone take things they see or use daily for granted, whether is is a refrigerator, clothes to wear, or food to eat.” She say the villagers most likely take for granted the natural beauty of their land, which she describe as simply breath-taking, with adobe huts marching down a volcanic ridge with a variety of rust colored tin roofs. Or the open air compounds, where the children ran, laughed, and played, their laughter ringing through the air as chickens scurried about. In the distance she told how she witnessed the vibrant colors of the outlying landscape which included active volcanoes emitting puffs of smoke, coffee plantations, and the sunsets which shed a rainbow of bright, cheerful colors across the sky.</p>
 		<p>Fakhoorian says that even though the village was poverty-stricken, the beauty she witnessed was truly a million dollar view. She told how  the villagers had given her the most valuable memory of all. “The social interactions I shared with the families there have changed my heart forever.”</p>
           </div>
+</div>

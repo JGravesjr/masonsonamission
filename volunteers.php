@@ -50,7 +50,7 @@
 	?>
 </div>
 <div id="stu">
-	<h3>Stu</h3>
-	<p>Friend and fellow volunteer Stu Silverstein has made a video of MOM's 2017 trip. Anyone who plans to volunteer with MOM in Guatemala can get a very good idea of where we will be working, and what we will be doing there.</p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/sSdsRKZUqo0" frameborder="0" allowfullscreen></iframe>
+	<?php
+		include 'stu.php';
+	?>
 </div>

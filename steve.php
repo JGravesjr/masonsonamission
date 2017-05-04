@@ -7,7 +7,6 @@
 	</div>
 </div>
 <div class="row">
-
 	<div class="expander col-xs-12 col-sm-6 col-md-6">
 		<h4>Goal:</h4>
 		<p>To raise money and awareness for the native Guatemalans who inhabit the Atitlan region of Guatemala in 3rd world conditions, cooking over an unvented “3 stone fire”,day after day, often with a baby in their arms. These women suffer various eye and lung ailments from the long term exposure to wood smoke. Every dollar raised for M.O.M. goes toward local stove materials which cost $150 per stove. These stoves exhaust smoke to the outside and are more efficient, easier and safer to use.</p>
