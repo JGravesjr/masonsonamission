@@ -1,8 +1,10 @@
 	<h3>Tamra</h3> 
+<div class="row">
 	<img src="images/tamra.jpg" alt="" class="thumbnail"/>
 	<img src="images/closeup3.jpg" alt="" class="thumbnail"/>
 	<img src="images/guate2.jpg" alt="" class="thumbnail"/>
 	<img src="images/fam6.jpg" alt="" class="thumbnail"/>
+</div>
         <div class="expander">
 		<p>Tamra Fakhoorian of Graves County is no stranger to traveling to foreign lands, having visited over fifteen countries in addition to a “youthful” journey spent back-packing across South America. She says she never expected a search online to evolve into her most recent expedition with a mission group to highland villages near San Marcos la Laguna, three hours northwest of Antigua in Guatemala. She was searching for information on how to construct a wood fired pizza oven on the internet, when she came across a link that she says opened her eyes and her heart to a group of volunteer, “Masons on a Mission (MOM).”</p>
 		<p>Fakhoorian contacted Patrick Manley, the founder/organizer of M.O.M., and learned how his mission group, comprised of professionals from all walks of life (masons, retired teachers, engineers, and even a public relations director), travel to Guatemala to construct wood fired brick stoves. Manley explained that the stoves dramatically improve the health, life expectancy and overall wellbeing of Guatemalan families, particularly those of the women and children. He further explained how he and the volunteers have made an annual trek for the past thirteen years at their own expense and with  no monetary compensation, to build efficient wood burning brick cook stoves for the poverty stricken villagers of Guatemala.</p>

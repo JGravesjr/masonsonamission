@@ -5,8 +5,6 @@
 <p>Masons on a Mission (MOM) is an IRS tax exempt charitable foundation whose mission is mobilize North American masons and other interested parties to build safe masonry cook stoves for impoverished Maya in Central America, and to train local Maya in cook stove construction in order to improve public health in the region.</p>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6">
-<img src="images/fam1.jpg" alt="" class="img-responsive"/>
-<img src="images/fam2.jpg" alt="" class="hidden-xs img-responsive"/>
-<img src="images/fam3.jpg" alt="" class="hidden-xs img-responsive"/>
-<img src="images/fam4.jpg" alt="" class="hidden-xs img-responsive"/>
+<img src="images/fam1.jpg" alt="" class="thumbnail"/>
+<img src="images/fam2.jpg" alt="" class="hidden-xs thumbnail"/>
 </div>
