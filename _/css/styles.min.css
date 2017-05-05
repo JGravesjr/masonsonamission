@@ -1,3 +1,3 @@
 .row{width:100%;height:100%}
 .thumbnail{width:380px;height:210px}
-#landing,#volunteers,#about,#donate{margin-right:auto;margin-left:auto;max-width:1200px}
+#landing,#volunteers,#about,#donate{padding-bottom:3em;padding-top:3em;margin-right:auto;margin-left:auto;max-width:1200px}
